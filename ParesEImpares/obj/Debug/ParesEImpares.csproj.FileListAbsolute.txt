@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\22-09\ParesEImpares\ParesEImpares\bin\Debug\ParesEImpares.exe.config
+C:\Users\Usuario\Desktop\22-09\ParesEImpares\ParesEImpares\bin\Debug\ParesEImpares.exe
+C:\Users\Usuario\Desktop\22-09\ParesEImpares\ParesEImpares\bin\Debug\ParesEImpares.pdb
+C:\Users\Usuario\Desktop\22-09\ParesEImpares\ParesEImpares\obj\Debug\ParesEImpares.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\22-09\ParesEImpares\ParesEImpares\obj\Debug\ParesEImpares.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\22-09\ParesEImpares\ParesEImpares\obj\Debug\ParesEImpares.exe
+C:\Users\Usuario\Desktop\22-09\ParesEImpares\ParesEImpares\obj\Debug\ParesEImpares.pdb
