@@ -11,7 +11,7 @@ namespace ParesEImpares
         static void Main(string[] args)
         {
             //Validar si un número es oar o impar
-            //Andy Garzón
+            //Tabata Vernaza
             int numero;
             do
             {
